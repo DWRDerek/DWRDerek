@@ -1,7 +1,6 @@
 <h1 align="center">
   Derek Ried <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
-  <br>
-  Kode Defence
+KodeDFIR
 </h1>
 
 <p align="center">
